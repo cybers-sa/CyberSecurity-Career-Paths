@@ -10,6 +10,8 @@
 - 🧑‍💻 [اختبار الاختراق (Penetration_Testing_Path.md)](./Penetration_Testing_Path.md)
 - 🔍 [التحليل الجنائي الرقمي (Digital_Forensics_Path.md)](./Digital_Forensics_Path.md)
 - 🔐 [إدارة الهوية والوصول (IAM)](./IAM_Path.md)
+- 🏗️ [هندسة الأمن (Security_Engineering_Path.md)](./Security_Engineering_Path.md)
+
 
 
 
