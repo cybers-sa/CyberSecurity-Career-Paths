@@ -4,6 +4,7 @@
 
 ## 🗂️ المسارات:
 
+- 🧱 [الحوكمة وإدارة المخاطر والامتثال (GRC)](./GRC_Path.md)
 - 📊 [مركز العمليات الأمنية (SOC)](./SOC_Path.md)
 - 🌐 [أمن الشبكات (Network_Security_Path.md)](./Network_Security_Path.md)
 - ⚠️ [الاستجابة للحوادث (Incident_Response_Path.md)](./Incident_Response_Path.md)
