@@ -4,9 +4,10 @@
 
 ## 🗂️ المسارات:
 
-- 📊 [مركز العمليات الأمنية (SOC)](./SOC_Path.md)
-- 🌐 [أمن الشبكات (Network_Security_Path.md)](./Network_Security_Path.md)
-- ⚠️ [الاستجابة للحوادث (Incident_Response_Path.md)](./Incident_Response_Path.md)
-- 🧑‍💻 [اختبار الاختراق (Penetration_Testing_Path.md)](./Penetration_Testing_Path.md)
+- 📊 مركز العمليات الأمنية (SOC)
+- 🌐 [أمن الشبكات](./Network_Security_Path.md)
+- ⚠️ [الاستجابة للحوادث](./Incident_Response_Path.md)
+- 🧑‍💻 [اختبار الاختراق](./Penetration_Testing_Path.md)
+- 🔍 [التحليل الجنائي الرقمي](./Digital_Forensics_Path.md)
 
 > تم ترتيب هذه المسارات بأسلوب مبسط وسهل الفهم، مع تضمين روابط موثوقة ومحدثة.
