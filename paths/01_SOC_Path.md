@@ -93,7 +93,7 @@
 - [BleepingComputer](https://www.bleepingcomputer.com) · [The Hacker News](https://thehackernews.com)
 - [The DFIR Report](https://thedfirreport.com): تقارير تحقيق حقيقية مفصلة خطوة بخطوة، من أفضل مصادر التعلم
 - [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog): الثغرات المستغلة فعليًا
-- 🇸🇦 [الهيئة الوطنية للأمن السيبراني](https://nca.gov.sa): التحذيرات والتعاميم المحلية
+- [الهيئة الوطنية للأمن السيبراني](https://nca.gov.sa): التحذيرات والتعاميم المحلية
 
 ---
 

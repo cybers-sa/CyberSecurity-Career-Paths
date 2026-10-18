@@ -89,7 +89,7 @@
 
 ## 💰 Bug Bounty (للتطبيق الحقيقي القانوني)
 
-[HackerOne](https://www.hackerone.com) · [Bugcrowd](https://www.bugcrowd.com) · [Intigriti](https://www.intigriti.com) · 🇸🇦 منصة مكافآت الثغرات التابعة للاتحاد السعودي للأمن السيبراني والبرمجة والدرونز عبر [safcsp.org.sa](https://www.safcsp.org.sa)
+[HackerOne](https://www.hackerone.com) · [Bugcrowd](https://www.bugcrowd.com) · [Intigriti](https://www.intigriti.com) · منصة مكافآت الثغرات التابعة للاتحاد السعودي للأمن السيبراني والبرمجة والدرونز عبر [safcsp.org.sa](https://www.safcsp.org.sa)
 
 ---
 

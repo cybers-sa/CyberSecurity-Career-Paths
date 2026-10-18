@@ -78,7 +78,7 @@
 - ضبط SSO و MFA وربطها بالتطبيقات
 - قراءة وتحليل سجلات تسجيل الدخول وكشف الشذوذ
 - فهم هجمات الهوية والدفاع منها
-- 🇸🇦 معرفة متطلبات الهوية والوصول في [ضوابط ECC](https://nca.gov.sa/en/regulatory-documents/controls-list/ecc/)
+- معرفة متطلبات الهوية والوصول في [ضوابط ECC](https://nca.gov.sa/en/regulatory-documents/controls-list/ecc/)
 
 ---
 
