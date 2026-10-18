@@ -4,7 +4,7 @@
 
 **الصعوبة:** ⭐⭐ · **مناسب لمن:** يحب التنظيم والتوثيق والتواصل، ولا يشترط أن يكون تقنيًا عميقًا (لكن الفهم التقني يرفعك كثيرًا)
 
-> **في السعودية هذا المسار مطلوب بقوة** لأن الجهات ملزمة بضوابط الهيئة الوطنية للأمن السيبراني وغيرها. إتقان هذه الضوابط ميزة تنافسية واضحة.
+> **هذا المسار مطلوب بقوة** لأن الجهات ملزمة بضوابط تنظيمية، منها ضوابط الهيئة الوطنية للأمن السيبراني. إتقان هذه الضوابط ميزة تنافسية واضحة.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-## الأطر والأنظمة المحلية (ابدأ منها)
+## الأطر والأنظمة الوطنية (ابدأ منها)
 
 | الإطار | الرابط |
 |---|---|
@@ -57,14 +57,14 @@
 | المستوى | الشهادة | ملاحظات |
 |---|---|---|
 | مدخل | [ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/certifications/cc) | يوجد عرض تدريب واختبار مجاني دوري، تحقق من الصفحة الرسمية |
-| مدخل | [ISO 27001 Foundation / Lead Implementer (PECB)](https://pecb.com/iso-iec-27001-lead-implementer) 💲 | مطلوبة جدًا محليًا |
+| مدخل | [ISO 27001 Foundation / Lead Implementer (PECB)](https://pecb.com/iso-iec-27001-lead-implementer) 💲 | مطلوبة جدًا |
 | مدخل | [CompTIA Security+](https://www.comptia.org/certifications/security) 💲 | أساس تقني عام |
 | متوسط | [CISA](https://www.isaca.org/credentialing/cisa) 💲 | للتدقيق والرقابة |
 | متوسط | [CRISC](https://www.isaca.org/credentialing/crisc) 💲 | للمخاطر والضوابط |
 | متوسط | [CISM](https://www.isaca.org/credentialing/cism) 💲 | لإدارة أمن المعلومات |
 | متقدم | [CISSP](https://www.isc2.org/certifications/cissp) 💲 | الأوسع والأكثر اعترافًا |
 | تخصص | [CDPSE (ISACA)](https://www.isaca.org/credentialing/cdpse) · [IAPP CIPP/CIPM](https://iapp.org/certify/) 💲 | للخصوصية |
-| اختياري | [GRCP (OCEG)](https://www.oceg.org/grcp/) 💲 | أقل انتشارًا محليًا من غيرها |
+| اختياري | [GRCP (OCEG)](https://www.oceg.org/grcp/) 💲 | أقل انتشارًا من غيرها |
 
 > المتطلب العملي لـ CISA و CRISC و CISM و CISSP هو خبرة مثبتة. تقدر تختبر قبلها، لكن الشهادة الكاملة تأتي بعد إثبات الخبرة.
 
@@ -100,7 +100,7 @@ Archer · ServiceNow IRM · OneTrust · AuditBoard · LogicManager · MetricStre
 | [Bakkah: دليل GRC](https://bakkah.com/ar/knowledge-center/grc) | شرح عربي للمفاهيم |
 | [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management) | منهجية إدارة المخاطر خطوة بخطوة |
 | [CIS Controls](https://www.cisecurity.org/controls) | ضوابط عملية مرتبة بالأولوية |
-| [أكاديمية الهيئة الوطنية للأمن السيبراني](https://nca.gov.sa/en/nca-academy/) | برامج تدريبية محلية |
+| [أكاديمية الهيئة الوطنية للأمن السيبراني](https://nca.gov.sa/en/nca-academy/) | برامج تدريبية |
 
 ---
 
