@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # 🧱 الحوكمة وإدارة المخاطر والامتثال (GRC)
 
 > **الفكرة باختصار:** تحول المتطلبات التنظيمية والمخاطر إلى سياسات وضوابط وأدلة، وتتأكد أن المنظمة ملتزمة فعلًا وليس على الورق فقط.
@@ -114,3 +116,5 @@ Archer · ServiceNow IRM · OneTrust · AuditBoard · LogicManager · MetricStre
 ---
 
 ⬅️ [الرئيسية](../README.md) · 🏢 [أي بيئة عمل تناسب هذا المسار؟](../guides/Work_Environments_Guide.md)
+
+</div>
