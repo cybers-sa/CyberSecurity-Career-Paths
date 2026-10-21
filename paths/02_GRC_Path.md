@@ -56,7 +56,7 @@
 
 | المستوى | الشهادة | ملاحظات |
 |---|---|---|
-| مدخل | [ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/certifications/cc) | يوجد عرض تدريب واختبار مجاني دوري، تحقق من الصفحة الرسمية |
+| مدخل | [ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/certifications/cc) | يوجد عرض تدريب واختبار مجاني دوري |
 | مدخل | [ISO 27001 Foundation / Lead Implementer (PECB)](https://pecb.com/iso-iec-27001-lead-implementer) 💲 | مطلوبة جدًا |
 | مدخل | [CompTIA Security+](https://www.comptia.org/certifications/security) 💲 | أساس تقني عام |
 | متوسط | [CISA](https://www.isaca.org/credentialing/cisa) 💲 | للتدقيق والرقابة |
@@ -76,7 +76,7 @@
 
 | الأداة | الاستخدام |
 |---|---|
-| [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) | منصة GRC مفتوحة المصدر، تدعم ECC-2:2024 وغيرها من أطر الهيئة (تحقق من النسخة المتاحة عندك) |
+| [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) | منصة GRC مفتوحة المصدر، تدعم ECC-2:2024 وغيرها من أطر الهيئة |
 | [Eramba Community](https://www.eramba.org) | إدارة المخاطر والامتثال والسياسات |
 | [SimpleRisk](https://www.simplerisk.com) | سجل مخاطر بسيط وعملي |
 | [OpenSCAP](https://www.open-scap.org) · [Lynis](https://cisofy.com/lynis) | فحص امتثال وتقوية أنظمة لينكس |
@@ -86,8 +86,6 @@
 
 ### 💼 تجارية (للتعرف عليها لأنك بتقابلها في الشغل)
 Archer · ServiceNow IRM · OneTrust · AuditBoard · LogicManager · MetricStream
-
-> 🧹 **تعديلات على النسخة القديمة:** سميت Archer باسمها الصحيح (كانت "Archer Insight")، وحذفت Qualys من قسم GRC لأنها أداة فحص ثغرات وليست GRC (تجدها في الأدوات التقنية)، وحذفت صفحتين تسويقيتين (Trusted Partners, Robodin) واستبدلتهم بمصادر أقوى.
 
 ---
 

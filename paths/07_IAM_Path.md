@@ -42,8 +42,6 @@
 | سحابة | [AWS Certified Security – Specialty (SCS-C03)](https://aws.amazon.com/certification/certified-security-specialty/) 💲 | IAM بعمق في AWS |
 | متقدم | [CISSP](https://www.isc2.org/certifications/cissp) 💲 | دومين كامل للهوية والوصول |
 
-> 🧹 **تعديلات على النسخة القديمة:** استبدلت `iamworkshop.com` بـ [AWS Workshops](https://workshops.aws) لأني لم أتحقق من الأول، وأضفت SC-900 و PAM، وقللت من الاعتماد على CIAM لأنها أقل انتشارًا في الوظائف.
-
 ---
 
 ## 🧪 تدريب عملي

@@ -107,7 +107,7 @@
 |---|---|
 | [flaws.cloud](http://flaws.cloud) 🆓 | تحدي AWS من تصميم Scott Piper، يعلمك أخطاء الإعداد الشائعة على مراحل، وبداية ممتازة |
 | [flaws2.cloud](http://flaws2.cloud) 🆓 | الجزء الثاني: هجوم ودفاع على AWS |
-| [Wiz Cloud Champions](https://cloudsecuritychampionship.com) | مسابقة CTF سحابية شهرية من Wiz Research مع لوحة ترتيب (تحقق من الشروط) |
+| [Wiz Cloud Champions](https://cloudsecuritychampionship.com) | مسابقة CTF سحابية شهرية من Wiz Research مع لوحة ترتيب |
 | [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) 🆓 | بيئات AWS ضعيفة تنشرها في حسابك |
 | [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) 🆓 | بيئة Kubernetes ضعيفة |
 | [Pwned Labs](https://pwnedlabs.io) 🆓/💲 | مختبرات اختراق سحابي واقعية |
@@ -219,7 +219,7 @@
 - [Microsoft Cloud Security Benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/overview)
 - [CIS Benchmarks (لكل سحابة)](https://www.cisecurity.org/cis-benchmarks)
 - [AWS Security Blog](https://aws.amazon.com/blogs/security/)
-- [HackTricks Cloud](https://cloud.hacktricks.wiki): مرجع للهجوم على السحابة (تحقق من الرابط)
+- [HackTricks Cloud](https://cloud.hacktricks.wiki): مرجع للهجوم على السحابة
 
 ---
 

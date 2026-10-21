@@ -75,8 +75,6 @@
 
 [This Week in 4n6](https://thisweekin4n6.com) · [13Cubed (يوتيوب)](https://www.youtube.com/@13Cubed) · [SANS Reading Room](https://www.sans.org/white-papers/) · [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net)
 
-> 🧹 حذفت رابط `github.com/sans-blue-team` من النسخة القديمة لأني لم أتأكد أنه حساب رسمي فعّال، واستبدلته بمصادر موثوقة.
-
 ---
 
 ⬅️ [الرئيسية](../README.md) · 🏢 [أي بيئة عمل تناسب هذا المسار؟](../guides/Work_Environments_Guide.md)

@@ -60,8 +60,6 @@
 | [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net) 🆓 | تمارين تحليل حركة شبكة لهجمات حقيقية |
 | [Atomic Red Team](https://atomicredteam.io) 🆓 | نفّذ تقنية هجومية وشوف هل قاعدة الكشف عندك تلقطها |
 
-> ⚠️ **تم حذف RangeForce Community Edition من هذه النسخة** لأني ما قدرت أتأكد أنه ما زال متاحًا. لو تأكدت ارجعه.
-
 ---
 
 ## 🛠️ الأدوات

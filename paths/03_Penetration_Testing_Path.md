@@ -80,7 +80,7 @@
 
 ## 📚 مراجع لا تستغني عنها
 
-- [HackTricks](https://book.hacktricks.wiki): مرجع ضخم لكل تقنية. ⚠️ عنوان الموقع تغيّر عن `book.hacktricks.xyz` الموجود في النسخة القديمة، فتحقق منه
+- [HackTricks](https://book.hacktricks.wiki): مرجع ضخم لكل تقنية.
 - [GTFOBins](https://gtfobins.github.io): رفع الصلاحيات في لينكس
 - [LOLBAS](https://lolbas-project.github.io): نفس الفكرة لويندوز
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): حمولات وتقنيات جاهزة

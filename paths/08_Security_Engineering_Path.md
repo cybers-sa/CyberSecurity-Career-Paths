@@ -54,8 +54,6 @@
 | [Open Security Training](http://opensecuritytraining.info/) 🆓 | دروس عميقة في أنظمة التشغيل والذاكرة |
 | [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) 🆓 | إرشادات مختصرة لكل موضوع في أمن التطبيقات |
 
-> ⚠️ حذفت RangeForce من هذا الملف لأني لم أستطع التأكد أن النسخة المجانية ما زالت متاحة.
-
 ---
 
 ## 🛠️ الأدوات
